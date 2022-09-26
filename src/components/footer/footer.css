@@ -1,0 +1,135 @@
+footer{
+    background: #040335;
+}
+
+footer .footerText{
+    padding: 67px 0;
+}
+
+footer .btn{
+    text-align: center;
+}
+footer .commonBtn{
+    color: #0F0BC7;
+    background: #FFFFFF;
+}
+
+footer h2{
+    font-weight: 800;
+font-size: 60px;
+line-height: 67px;
+width: 817px;
+max-width: 100%;
+margin: auto;
+text-align: center;
+padding-bottom: 40px;
+color: #FFFFFF;
+}
+
+
+footer .footerLogo p{
+    width: 189px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+opacity: 0.8;
+}
+
+footer .footerLogo{
+    width:30%;
+}
+
+footer .footerProduct{
+    width:18%;
+}
+
+footer .footerCompany{
+    width:18%;
+}
+
+footer .footerResources{
+    width:18%;
+}
+
+footer .footerFollow{
+    width:18%;
+}
+
+footer .footerDetails{
+    padding: 54px 0;
+    
+}
+
+footer .footerDetails{
+    display: flex;
+    border-top: 1px solid#FFFFFF;
+    border-bottom: 1px solid#FFFFFF;
+
+    
+}
+
+footer h4{
+padding-bottom: 32px;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color:#FFFFFF;
+}
+
+footer h5{
+    padding-bottom: 18px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;  
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+
+footer li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    
+    
+    letter-spacing: -0.02em;
+    
+    color: #FFFFFF;
+    margin-bottom: 24px;
+    opacity: 0.8; 
+}
+
+footer .footerLogo{
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    
+    
+    letter-spacing: -0.02em;
+    
+    color: #FFFFFF;
+    
+    
+}
+
+footer .copyRights p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    color: #FFFFFF;
+    
+    opacity: 0.8;
+    padding: 36px 0;
+}
+

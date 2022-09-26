@@ -1,0 +1,77 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+/* Package CSS dependencies */
+/* @import url('bootstrap/dist/css/bootstrap.min.css'); */
+
+/* Application level common styles */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color:#fff;
+  font-family: 'Lato', sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  h1{
+    width:970px;
+    margin: auto;
+    max-width: 100%;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 80px;
+    padding-top: 129px;
+    text-align: center;
+    color: #FFFFFF;
+
+
+  }
+
+  h3{
+    font-weight: 700;
+font-size: 50px;
+line-height: 56px;
+
+
+letter-spacing: -0.03em;
+
+color: #000000;
+  }
+
+
+.commonBtn{
+    border:0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    padding:19px 30px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    background: linear-gradient(106.75deg, #2272FF 0%, #0D03C3 100%);
+    border-radius: 40px;
+    color: #fff;
+     
+}
